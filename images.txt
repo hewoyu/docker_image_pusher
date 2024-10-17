@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
 https://docker.1panel.live
+https://docker.m.daocloud.io
+https://hub.rat.dev
